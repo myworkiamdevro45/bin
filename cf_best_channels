@@ -1,0 +1,56 @@
+{"channels":[
+{"title":"Ind Vs Bangladesh",
+    "channelUrl":"http://red.aslivetv.club/sports/IndvsBan.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36 ExoPlayer/2.1 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://images.financialexpress.com/2018/09/INDIA-VS-BANGLADESH_2.jpg"},
+{"title":"Colors",
+    "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
+    "channelLogo":"https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/colors-logo.jpg"},
+  
+
+{"title":"SONY SET","channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_800.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS","category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
+     ,{"title":"Zee News",
+     "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_600.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS",
+     "category":"sport",
+     "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
+     "channelLogo":"https://content2.jdmagicbox.com/comp/patna/y4/0612px612.x612.110315234714.c3y4/catalogue/zee-news-ltd-boring-road-patna-satellite-channels-mkleomeell.jpg"},
+
+{
+    "title":"Zee Tv",    
+    "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_800.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS",    
+    "category":"Entertainment",
+    "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
+    "channelLogo":"https://pbs.twimg.com/profile_images/919648765811744768/ycdgPq0L_400x400.jpg"},
+   {
+    "title":"Movies Now",
+    "channelUrl":"https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "category":"Kids",
+    "server":"tv.accedo.airtel.wynk/1.17.5 (Linux;Android 9) ExoPlayerLib/2.9.6","cover":"https://drive.google.com/uc?export=view&id=1fbFW2WhOyH3tOSWNSLjPBYGlFKJEQML8",
+    "channelLogo":"https://www.rdcablenet.com/wp-content/uploads/2019/01/MOVIES-NOW-HD.jpg"},
+    {
+    "title":"Star Gold",
+    "channelUrl":"http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8",
+    "category":"News",
+    "server":"Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
+    "channelLogo":"https://www.adgully.com/img/800/65647_star-gold-2.jpg"},
+     {
+    "title":"Ten 1",
+    "channelUrl":"https://sony247channels.akamaized.net/hls/live/2008246/SonyTen1SD/master_2128.m3u8",
+    "category":"Sports",
+    "server":"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV5XbJP-mTAe9VM9vk_XLZCMgE14gJuGZGB8q_DKJ-vVHjwgiv"},
+    {
+    "title":"Delhi Aaj Tak",
+    "channelUrl":"https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b900000.m3u8",
+    "category":"News",
+    "server":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer",
+    "channelLogo":"https://www.adgully.com/img/400/201806/dharna.jpg"},
+   {
+    "title":"Hungama",        
+    "channelUrl":"http://jprdigitalott.com/media/Hungama.mpd",
+    "category":"kids",
+    "server":"(Linux;Android 9) ExoPlayerLib/2.9.6",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZiIbUwpHHyS-3kb9rLWfRq5l-MZL3A3bOJaC-ySCow8SKAUwQ"}
+   ]
+}
