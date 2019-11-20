@@ -1,5 +1,5 @@
 {"records":[{
-	"title":"telegram",
+	"title":"Telegram",
 	"genre":"",
 	"year":2017,
 	"season":3,
@@ -61,7 +61,7 @@
        "cover":"https://english.cdn.zeenews.com/sites/default/files/2019/08/13/811043-war-poster.jpg",
        "type":"movie"},
         {
-       "title":"IT Chapter 2 HD (English)",
+       "title":"IT Chapter 2",
        "genre":"Comedy, Drama",
        "year":2019,
        "season":2,
@@ -82,7 +82,7 @@
 	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPQauK04DZMeubx5BbDqWcyAQP7uTW_cuVsOl05C9ok6TrDGL-",
 	"type":"movie"},
 	{
-	"title":"Batwoman S01E01",
+	"title":"Batwoman",
 	"genre":"",
 	"year":2019,
 	"season":3,
@@ -102,7 +102,7 @@
 	"cover":"https://www.grammy.com/sites/com/files/styles/news_detail_header/public/the-lion-king.jpg",
 	"type":"movie"},
 	{
-	"title":"Flames Season 2 Complete",
+	"title":"Flames Season 2",
 	"genre":"",
 	"year":2019,
 	"season":2,
