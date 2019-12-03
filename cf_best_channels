@@ -10,15 +10,15 @@
   
 
 {"title":"SONY SET","channelUrl":"https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1575383400~exp=1575387000~acl=/hls/live/2008252/SETHD/*~hmac=5cf697620126b590b5cd9e514c8cab25dc1397ffedb0ae831b6d4314191ce13d","category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
-     ,{"title":"Zee News",
-     "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_600.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS",
+     ,{"title":"AAJ TAK",
+     "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
      "category":"sport",
      "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
-     "channelLogo":"https://content2.jdmagicbox.com/comp/patna/y4/0612px612.x612.110315234714.c3y4/catalogue/zee-news-ltd-boring-road-patna-satellite-channels-mkleomeell.jpg"},
+     "channelLogo":"https://www.adgully.com/img/400/201707/aaj-tak-logo.jpg"},
 
 {
     "title":"Zee Tv",    
-    "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_800.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS",    
+    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=zeetvhd",    
     "category":"Entertainment",
     "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
     "channelLogo":"https://pbs.twimg.com/profile_images/919648765811744768/ycdgPq0L_400x400.jpg"},
