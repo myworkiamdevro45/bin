@@ -9,7 +9,7 @@
     "channelLogo":"https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/colors-logo.jpg"},
   
 
-{"title":"SONY SET","channelUrl":"https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1575383400~exp=1575387000~acl=/hls/live/2008252/SETHD/*~hmac=5cf697620126b590b5cd9e514c8cab25dc1397ffedb0ae831b6d4314191ce13d","category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
+{"title":"SONY SET","channelUrl":"http://tamiltvhd.000webhostapp.com/App/m3u8.php?c=Sony_HD&q=1200&e=.m3u8","category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
      ,{"title":"AAJ TAK",
      "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
      "category":"sport",
