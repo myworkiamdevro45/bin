@@ -69,7 +69,7 @@
 	"type":"movie"},
          
 	
-         {"title":"Crawl","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Fictional representation of real life crime cases in India",
-	 "episodes":"http://dl1.jiocloud.link//Crawl.2019.ORG.Hindi.Dual.Audio.720p.BluRay.x264-KatmovieHD.nl.mkv",
-	 "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOkee0GYjbjeEfLj5tMdlfshRIDVzJxWFjhFB1sE6MEnH4jV1",
-	 "type":"movie"}]}
+         {"title":"Bigg Boss Latest Episode","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36",
+	 "episodes":"https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_1848.m3u8",
+	 "cover":"https://vimg.voot.com/kimg/kimg/0c40e6b1106a4e62a5b38250582bc9be_640X480.jpg",
+	 "type":"live"}]}
