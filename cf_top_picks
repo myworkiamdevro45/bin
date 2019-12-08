@@ -68,4 +68,8 @@
 	"info":"cineflix",
 	"episodes":"https://ondrole.s3.ap-south-1.amazonaws.com/Pati+Patni+Aur+Woh+(2019).mkv",
 	"cover":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/10/15/Pictures/_bc42de9a-ef20-11e9-8e48-0fd2949bd28d.jpg",
-	"type":"movie"}]}
+	"type":"movie"},
+       {"title":"Bigg Boss Latest Episode","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36",
+	 "episodes":"https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_1848.m3u8",
+	 "cover":"https://vimg.voot.com/kimg/kimg/0c40e6b1106a4e62a5b38250582bc9be_640X480.jpg",
+	 "type":"live"} ]}
