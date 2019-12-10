@@ -69,11 +69,11 @@
 	"episodes":"https://ondrole.s3.ap-south-1.amazonaws.com/Pati+Patni+Aur+Woh+(2019).mkv",
 	"cover":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/10/15/Pictures/_bc42de9a-ef20-11e9-8e48-0fd2949bd28d.jpg",
 	"type":"movie"},
-       {"title":"Bigg Boss Latest Episode","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36",
+       {"title":"Bigg Boss Latest Episode","genre":"Crime","year":2019,"season":13,"imdb":9.8,"info":"The yearly Arrowverse crossover event has become a staple of The CW, but this year's is particularly epic. We've been anticipating the 2019 crossover, Crisis on Infinite Earths, ever since last year's Elseworlds crossover teased it, and now it's finally upon us!",
 	 "episodes":"https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_1848.m3u8",
 	 "cover":"https://vimg.voot.com/kimg/kimg/0c40e6b1106a4e62a5b38250582bc9be_640X480.jpg",
 	 "type":"live"},
-       {"title":"Crisis On Infinite Earths","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36",
-	 "episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Supergirl/Supergirl.S05E09.mkv",
+       {"title":"Crisis On Infinite Earths","genre":"Crime","year":2019,"season":"5,1","imdb":7,"info":"The yearly Arrowverse crossover event has become a staple of The CW, but this year's is particularly epic. We've been anticipating the 2019 crossover, Crisis on Infinite Earths, ever since last year's Elseworlds crossover teased it, and now it's finally upon us!",
+	 "episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Supergirl/Supergirl.S05E09.mkv$https://3gd64u.vkcache.com/secip/0/Ytiej0kXOEVKhmej69QoYw/MTQ2LjE5Ni4zMy4yMzY=/1575990000/hls-vod-s11/flv/api/files/videos/2019/12/10/1575943380fidbg.mp4.m3u8$",
 	 "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNx3WVoyKzjRabIT4BAyVUaFTqQV0HEd_9t4hZuIX8c2QP6dsq",
-	 "type":"movie"} ]}
+	 "type":"series"} ]}
