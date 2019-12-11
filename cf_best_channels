@@ -1,8 +1,8 @@
 {"channels":[
-{"title":"Ind Vs Bangladesh",
-    "channelUrl":"http://red.aslivetv.club/sports/IndvsBan.m3u8",
-    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36 ExoPlayer/2.1 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"https://images.financialexpress.com/2018/09/INDIA-VS-BANGLADESH_2.jpg"},
+{"title":"Ind Vs Westindies",
+    "channelUrl":"https://live12p.hotstar.com/hls/live/2003702/indvswi2019/hin/fulldvr1440003987xoiqtwz6xm11december2019/master.m3u8?a=ns&hdnea=st=1576073674~exp=1576077274~acl=/*~hmac=378c3c2b206fd204cea1a3fa6282723c464ff797f3da345abb51c98eb7b4f1e1",
+    "category":"ent","server":"Hotstar;in.startv.hotstar/8.3.9 (Linux;Android 5.1.1) ExoPlayerLib/2.9.5",
+    "channelLogo":"https://www.telegraphstar.com/wp-content/uploads/2019/08/ind-vs-wi-t20.jpg"},
 {"title":"Colors",
     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
     "category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
