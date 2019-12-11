@@ -85,4 +85,13 @@
        {"title":"Crisis On Infinite Earths","genre":"Action, Adventure, Drama","year":2019,"season":1,"imdb":9.8,"info":"The yearly Arrowverse crossover event has become a staple of The CW, but this year's is particularly epic. We've been anticipating the 2019 crossover, Crisis on Infinite Earths, ever since last year's Elseworlds crossover teased it, and now it's finally upon us!",
 	 "episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Supergirl/Supergirl.S05E09.mkv$https://3gd64u.vkcache.com/secip/0/5n4ytTyZYFQSkz73DoKlYg/MTgwLjE1MS40LjE2Mw==/1576076400/hls-vod-s11/flv/api/files/videos/2019/12/10/1575943380fidbg.mp4.m3u8$https://h4ahsm.vkcache.com/secip/0/5n4ytTyZYFQSkz73DoKlYg/MTgwLjE1MS40LjE2Mw==/1576076400/hls-vod-s03/flv/api/files/videos/2019/12/11/1576036775pkdet.mp4.m3u8$",
 	 "cover":"https://s3.birthmoviesdeath.com/images/made/Crisis_Part_1_1050_591_81_s_c1.jpg",
-	 "type":"series"}]}
+	 "type":"series"},
+   {"title":"Ind vs WestIndies",
+	"genre":"",
+	"year":2019,
+	"season":8,
+	"imdb":7.7,
+	"info":"Hotstar;in.startv.hotstar/8.3.9 (Linux;Android 5.1.1) ExoPlayerLib/2.9.5",
+	"episodes":"https://live12p.hotstar.com/hls/live/2003702/indvswi2019/hin/fulldvr1440003987xoiqtwz6xm11december2019/master.m3u8?a=ns&hdnea=st=1576073674~exp=1576077274~acl=/*~hmac=378c3c2b206fd204cea1a3fa6282723c464ff797f3da345abb51c98eb7b4f1e1",
+	"cover":"https://www.telegraphstar.com/wp-content/uploads/2019/08/ind-vs-wi-t20.jpg",
+	"type":"live"}]}
