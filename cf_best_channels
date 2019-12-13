@@ -1,20 +1,20 @@
 {"channels":[
-{"title":"Ind Vs Westindies",
-    "channelUrl":"https://live12p.hotstar.com/hls/live/2003702/indvswi2019/hin/fulldvr1440003987xoiqtwz6xm11december2019/master.m3u8?a=ns&hdnea=st=1576073674~exp=1576077274~acl=/*~hmac=378c3c2b206fd204cea1a3fa6282723c464ff797f3da345abb51c98eb7b4f1e1",
-    "category":"ent","server":"Hotstar;in.startv.hotstar/8.3.9 (Linux;Android 5.1.1) ExoPlayerLib/2.9.5",
-    "channelLogo":"https://www.telegraphstar.com/wp-content/uploads/2019/08/ind-vs-wi-t20.jpg"},
+{"title":"Star sports 1",
+    "channelUrl":"http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/07/02/starsports.jpg?itok=51Ue_t6l"},
 {"title":"Colors",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
-    "category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
+    "channelUrl":"https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
     "channelLogo":"https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/colors-logo.jpg"},
   
 
-{"title":"SONY SET","channelUrl":"http://tamiltvhd.000webhostapp.com/App/m3u8.php?c=Sony_HD&q=1200&e=.m3u8","category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
+{"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
      ,{"title":"AAJ TAK",
      "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
      "category":"sport",
      "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
-     "channelLogo":"https://www.adgully.com/img/400/201707/aaj-tak-logo.jpg"},
+     "channelLogo":"https://www.adgully.com/img/400x300/201903/aaj-tak.jpg"},
 
 {
     "title":"Zee Tv",    
@@ -28,29 +28,17 @@
     "category":"Kids",
     "server":"tv.accedo.airtel.wynk/1.17.5 (Linux;Android 9) ExoPlayerLib/2.9.6","cover":"https://drive.google.com/uc?export=view&id=1fbFW2WhOyH3tOSWNSLjPBYGlFKJEQML8",
     "channelLogo":"https://www.rdcablenet.com/wp-content/uploads/2019/01/MOVIES-NOW-HD.jpg"},
-    {
-    "title":"Star Gold",
-    "channelUrl":"http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8",
-    "category":"News",
-    "server":"Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
-    "channelLogo":"https://www.adgully.com/img/800/65647_star-gold-2.jpg"},
-     {
-    "title":"Ten 1",
-    "channelUrl":"https://sony247channels.akamaized.net/hls/live/2008246/SonyTen1SD/master_2128.m3u8",
-    "category":"Sports",
-    "server":"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
-    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV5XbJP-mTAe9VM9vk_XLZCMgE14gJuGZGB8q_DKJ-vVHjwgiv"},
-    {
+   {
     "title":"Delhi Aaj Tak",
     "channelUrl":"https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b900000.m3u8",
     "category":"News",
     "server":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer",
     "channelLogo":"https://www.adgully.com/img/400/201806/dharna.jpg"},
    {
-    "title":"Hungama",        
-    "channelUrl":"http://jprdigitalott.com/media/Hungama.mpd",
+    "title":"& tv",        
+    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=andtvhd",
     "category":"kids",
-    "server":"(Linux;Android 9) ExoPlayerLib/2.9.6",
-    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZiIbUwpHHyS-3kb9rLWfRq5l-MZL3A3bOJaC-ySCow8SKAUwQ"}
+    "server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSBnQMUK1LWO753KpoZUZMe2jFMXqE_s9xMNqwNSLEujs1po0&s"}
    ]
 }
