@@ -37,8 +37,8 @@
          "genre":"Action, Drama, Thriller",
          "year":2019,
          "videoOne":2,
-         "videoTwo":"https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FBatla%20House%20(2019)%20HD.mkv?alt=media&token=71c56692-f326-415a-8969-61e009403de8",
-         "videoThree":"https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FBatla%20House%20(2019)%20HD.mkv?alt=media&token=71c56692-f326-415a-8969-61e009403de8",
+         "videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4550485.mp4",
+         "videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4550485.mp4",
          "info":"After a deadly encounter, a police officer works to prove that the police acted lawfully.",
          "cover":"https://pbs.twimg.com/media/EAx-Y7gU0AAXDpu.jpg"
       }
