@@ -6,7 +6,7 @@
 {"title":"Colors",
     "channelUrl":"https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
     "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/colors-logo.jpg"},
+    "channelLogo":"http://redflixtv.me/uploads/tv_image/colors-tv.jpg"},
   
 
 {"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3","channelLogo":"https://content.jdmagicbox.com/jd_social_backend/logo/895623415263/4349bc7847284774de4f768d9bf1319c.png"}
@@ -14,7 +14,7 @@
      "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
      "category":"sport",
      "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
-     "channelLogo":"https://www.adgully.com/img/400x300/201903/aaj-tak.jpg"},
+     "channelLogo":"http://redflixtv.me/uploads/tv_image/sony-hd.jpg"},
 
 {
     "title":"Zee Tv",    
