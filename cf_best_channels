@@ -9,7 +9,8 @@
     "channelLogo":"http://redflixtv.me/uploads/tv_image/colors-tv.jpg"},
   
 
-{"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3","channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTF7CUWV9hLn0m7v9iQ-fCa7bRQ5Xho6mfobSN6z0mf87cSmDGT"}
+{"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+      "channelLogo":"http://redflixtv.me/uploads/tv_image/sony-hd.jpg"}
      ,{"title":"AAJ TAK",
      "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
      "category":"sport",
