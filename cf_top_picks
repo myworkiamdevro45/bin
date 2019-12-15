@@ -91,7 +91,7 @@
 	"year":2019,
 	"season":8,
 	"imdb":7.7,
-	"info":Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+	"info":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
 	"episodes":"http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8",
 	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlyOD-D1O9q8Jh_wFNpbJxnlJAiEL-HUh_AGI7vaLibns2PzQk",
 	"type":"live"}]}
