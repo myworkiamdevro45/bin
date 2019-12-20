@@ -41,6 +41,16 @@
          "videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4550485.mp4",
          "info":"After a deadly encounter, a police officer works to prove that the police acted lawfully.",
          "cover":"https://pbs.twimg.com/media/EAx-Y7gU0AAXDpu.jpg"
+      },
+     {  
+         "title":"Pati Patni Aur Woh",
+         "genre":"Comedy, Romance",
+         "year":2019,
+         "videoOne":2,
+         "videoTwo":"http://51.15.181.87/Bollywood%20Movies/Acetvapk.%20Com%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20Hindi%20480p%20PreDVD%20Rip%20x264%20AAC%20700MB%20Exclusive.mp4",
+         "videoThree":"http://51.15.181.87/Bollywood%20Movies/Acetvapk.%20Com%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20Hindi%20480p%20PreDVD%20Rip%20x264%20AAC%20700MB%20Exclusive.mp4",
+         "info":"Chintu Tyagi is an ordinary, middle class man who finds himself torn between his wife and another woman.",
+         "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRZyiPuYBHict9GLkQeiuh55iGXnodxHdNGnNYaeJ23dM8-h6X"
       }
    ]
 }
