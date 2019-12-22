@@ -95,4 +95,14 @@
 	"info":"cineflix",
 	"episodes":"https://ptvdown.top/api/db/media.php?upwmknbdqfqd9fw/Pocket%20TV%20-%20Dabangg%203%20%282019%29%20Hindi%20AAC%20700MB%20x264.mkv",
 	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFyOAUqe5F606dUYzjIrpg-VvCMyNiJrsuFDdOyOUJNE8QUpUk",
-	"type":"movie"}]}
+	"type":"movie"},
+        {
+	"title":"India Vs West Indies 3rd ODI",
+	"genre":"",
+	"year":2019,
+	"season":8,
+	"imdb":7.7,
+	"info":"cineflix",
+	"episodes":"http://live12p.hotstar.com/hls/live/2003702/indvswi2019/hin/fulldvr1440003990s2o558bcga22december2019/master_1.m3u8",
+	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQzAm_1e1RJh1_5t-6F7zlbphRZ_hzh92w5Knrsrk1wmF9ca7b",
+	"type":"live"}]}
