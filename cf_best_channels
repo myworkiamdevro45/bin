@@ -1,45 +1,56 @@
 {"channels":[
-{"title":"Star sports 1",
-    "channelUrl":"http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8",
-    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/07/02/starsports.jpg?itok=51Ue_t6l"},
+{"title":"Ind Vs Bangladesh",
+    "channelUrl":"http://red.aslivetv.club/sports/IndvsBan.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36 ExoPlayer/2.1 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
 {"title":"Colors",
-    "channelUrl":"https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
-    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"http://redflixtv.me/uploads/tv_image/colors-tv.jpg"},
+    "channelUrl":"http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8",
+    "category":"ent","server":"plaYtv/5.7.2 (Linux;Android 5.1.1) ExoPlayerLib/2.8.0",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
   
 
-{"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-      "channelLogo":"http://redflixtv.me/uploads/tv_image/sony-hd.jpg"}
-     ,{"title":"AAJ TAK",
-     "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
+{"title":"SONY SET","channelUrl":"https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master_3500.m3u8","category":"ent","server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4","channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"}
+     ,{"title":"Zee News",
+     "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_600.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS",
      "category":"sport",
      "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
-     "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTF7CUWV9hLn0m7v9iQ-fCa7bRQ5Xho6mfobSN6z0mf87cSmDGT"},
+     "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
 
 {
     "title":"Zee Tv",    
-    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=zeetvhd",    
+    "channelUrl":"http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_800.m3u8?jct=vbYSWWF9wZaZAaL-0QhtXw&pxe=1570196500&st=2rABpyTLSDzkoYS",    
     "category":"Entertainment",
     "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
-    "channelLogo":"https://pbs.twimg.com/profile_images/919648765811744768/ycdgPq0L_400x400.jpg"},
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
    {
     "title":"Movies Now",
     "channelUrl":"https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
     "category":"Kids",
     "server":"tv.accedo.airtel.wynk/1.17.5 (Linux;Android 9) ExoPlayerLib/2.9.6","cover":"https://drive.google.com/uc?export=view&id=1fbFW2WhOyH3tOSWNSLjPBYGlFKJEQML8",
-    "channelLogo":"https://www.rdcablenet.com/wp-content/uploads/2019/01/MOVIES-NOW-HD.jpg"},
-   {
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
+    {
+    "title":"Star Gold",
+    "channelUrl":"http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8",
+    "category":"News",
+    "server":"Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
+     {
+    "title":"Ten 1",
+    "channelUrl":"https://sony247channels.akamaized.net/hls/live/2008246/SonyTen1SD/master_2128.m3u8",
+    "category":"Sports",
+    "server":"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
+    {
     "title":"Delhi Aaj Tak",
     "channelUrl":"https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b900000.m3u8",
     "category":"News",
     "server":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer",
-    "channelLogo":"https://www.adgully.com/img/400/201806/dharna.jpg"},
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"},
    {
-    "title":"& tv",        
-    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=andtvhd",
+    "title":"Hungama",        
+    "channelUrl":"http://jprdigitalott.com/media/Hungama.mpd",
     "category":"kids",
-    "server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSBnQMUK1LWO753KpoZUZMe2jFMXqE_s9xMNqwNSLEujs1po0&s"}
+    "server":"(Linux;Android 9) ExoPlayerLib/2.9.6",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmNfA3Nf2zm1Vfcobia2fXNl_R2M-GmICW2LdHzFERvxlWXY1d"}
    ]
 }
