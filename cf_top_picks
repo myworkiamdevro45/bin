@@ -10,7 +10,7 @@
 	"type":"link"},
 	
 	{
-	"title":"The Lion King",
+	"title":"Click here to update",
 	"genre":"",
 	"year":2019,
 	"season":3,
@@ -20,7 +20,7 @@
 	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfPSjaXJAEPRhHed71oCffSVOn5oEDZnThiaEf-GOObi07Jl0T",
 	"type":"link"},
 	{
-	"title":"Flames Season 2",
+	"title":"Click here to update",
 	"genre":"",
 	"year":2019,
 	"season":2,
@@ -30,7 +30,7 @@
 	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfPSjaXJAEPRhHed71oCffSVOn5oEDZnThiaEf-GOObi07Jl0T",
 	"type":"link"},
 	{
-	"title":"Chhichore",
+	"title":"Click here to update",
 	"genre":"",
 	"year":2019,
 	"season":8,
@@ -40,7 +40,7 @@
 	"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfPSjaXJAEPRhHed71oCffSVOn5oEDZnThiaEf-GOObi07Jl0T",
 	"type":"link"},
 	{
-	"title":"Bala",
+	"title":"Click here to update",
 	"genre":"",
 	"year":2019,
 	"season":8,
@@ -51,7 +51,7 @@
 	"type":"link"},
          
 	
-         {"title":"Crawl","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Fictional representation of real life crime cases in India",
+         {"title":"Click here to update","genre":"Crime","year":2019,"season":3,"imdb":7.9,"info":"Fictional representation of real life crime cases in India",
 	 "episodes":"https://raw.githubusercontent.com/iamdevhitman45/update/master/app-release.apk",
 	 "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfPSjaXJAEPRhHed71oCffSVOn5oEDZnThiaEf-GOObi07Jl0T",
 	 "type":"link"}]}
